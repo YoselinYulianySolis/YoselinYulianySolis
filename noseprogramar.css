@@ -1,0 +1,12 @@
+.izq{
+    width: 33%;
+    background-color: blue;
+}
+.center{
+    width: 33%;
+    background-color: blueviolet;
+}
+.der{
+    width: 33%;
+    background-color: crimson;
+}
