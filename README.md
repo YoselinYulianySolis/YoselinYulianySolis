@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![nanner](https://github.com/user-attachments/assets/81275d9c-7be6-405a-9d92-6f815b5246c2)
+![Aesthetic color](https://github.com/user-attachments/assets/0d507107-76f0-42a6-892e-273fe0c77eed)
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)
 ![GitHub](https://img.shields.io/github/followers/YoselinYulianySolis)
