@@ -2,7 +2,7 @@
 
 ![Aesthetic color](https://github.com/user-attachments/assets/0d507107-76f0-42a6-892e-273fe0c77eed)
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvr6GFJjPjbcjLMq4UQvv0Q?style=social)
 ![GitHub](https://img.shields.io/github/followers/YoselinYulianySolis)
 
 
